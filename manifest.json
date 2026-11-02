@@ -1,0 +1,15 @@
+{
+  "name": "SALIOU PIECES DETACHEES",
+  "short_name": "SALIOU",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0f5f2c",
+  "theme_color": "#0f5f2c",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3771/3771405.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
